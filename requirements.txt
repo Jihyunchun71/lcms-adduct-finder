@@ -1,0 +1,7 @@
+pyopenms
+pandas
+openpyxl
+molmass
+scipy
+matplotlib
+numpy
